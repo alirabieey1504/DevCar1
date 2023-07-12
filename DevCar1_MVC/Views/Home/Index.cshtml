@@ -1,5 +1,5 @@
-﻿@using DevCar1_MVC.Controllers
-@model DevCar1_MVC.Controllers.IndexModel
+﻿
+@model DevCar1_MVC.Models.IndexModel
 @{
     ViewData["Title"] = "صفحه اصلی";
 }
@@ -34,11 +34,13 @@
         </div>
     </div>
 </section>
-
+@* loding partial view *@
 @*<partial name="Projects"/>*@
 @*@await Html.PartialAsync("Projects"new List<Project>())
 @await Html.PartialAsync("Projects")*@
+@* loding view component *@
 
+@await Component.InvokeAsync("Projects")
 <div class="container">
     <hr>
 </div>

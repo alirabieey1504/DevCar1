@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using DevCar1_MVC.Models;
+using System.Collections.Generic;
 
-namespace DevCar1_MVC.Controllers
+namespace DevCar1_MVC.Models
 {
     public class IndexModel
     {

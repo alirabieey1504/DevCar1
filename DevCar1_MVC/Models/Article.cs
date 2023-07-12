@@ -1,4 +1,4 @@
-﻿namespace DevCar1_MVC.Controllers
+﻿namespace DevCar1_MVC.Models
 {
     public class Article
     {
