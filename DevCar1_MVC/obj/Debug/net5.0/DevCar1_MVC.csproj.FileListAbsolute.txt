@@ -114,3 +114,4 @@ D:\پروژه های جدید\DevCar1_MVC\bin\Debug\net5.0\zh-Hant\Microsoft.Cod
 D:\پروژه های جدید\DevCar1_MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\پروژه های جدید\DevCar1_MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Home\Projects.cshtml.g.cs
