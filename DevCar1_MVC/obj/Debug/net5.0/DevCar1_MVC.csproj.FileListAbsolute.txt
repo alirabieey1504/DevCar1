@@ -117,3 +117,5 @@ D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Home\Cont
 D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Pages\Components\LatestArticle\LatestsArticles.cshtml.g.cs
 D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Home\Components\LatestsArticles\LatestsArticles.cshtml.g.cs
+D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+D:\پروژه های جدید\DevCar1_MVC\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
