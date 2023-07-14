@@ -13,7 +13,7 @@ namespace DevCar1_MVC.Controllers
            
         }
 
-        public IActionResult Index()
+        public ViewResult Index()
         {
             return View();
         }
