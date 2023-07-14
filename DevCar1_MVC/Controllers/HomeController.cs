@@ -1,6 +1,8 @@
-﻿using DevCar1_MVC.Models;
+﻿using System;
+using DevCar1_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Http;
 
 namespace DevCar1_MVC.Controllers
 {
@@ -17,10 +19,24 @@ namespace DevCar1_MVC.Controllers
         {
             return View();
         }
-
+        //[HttpPost]
+        //public JsonResult Contact(IFormCollection form)
+        //{
+        //    var name = form["name"];
+        //    return Json(Ok());
+        //}
+        [HttpGet]
         public IActionResult Contact()
         {
-            return View();
+            var model=new Contact();
+            return View(model);
+        }
+
+        [HttpPost]
+        public JsonResult Contact(Contact form)
+        {
+            Console.WriteLine(form.ToString());
+            return Json(Ok());
         }
 
         
